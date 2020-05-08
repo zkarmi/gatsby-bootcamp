@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 
 const ContactPage = () => (
-  <Layout>
+  <Layout pageTitle="Contact">
     <h1>Contact Me</h1>
     <p>
       <a href="mailto:myemail@myemail.myemail">E: myemail@myemail.myemail</a>

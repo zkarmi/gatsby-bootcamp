@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 
 const AboutPage = () => (
-  <Layout>
+  <Layout pageTitle="About">
     <h1>About Me</h1>
     <p>I grew up in Staten Island, NY, and moved to the city in 2012.</p>
     <p>
